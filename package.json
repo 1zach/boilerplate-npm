@@ -14,5 +14,6 @@
 	},
 	"description": "A package that does something awesome",
 	"keywords": ["freecodecamp", "descriptive", "interesting"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.2.0"
 }
